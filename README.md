@@ -1,7 +1,7 @@
 # To run the application
 docker-compose up
 
-#To stop the application
+# To stop the application
 docker-compose down
 
 This application will expose two APIs:
